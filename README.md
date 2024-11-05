@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @balaswork
 - 👀 I’m interested in learning about Cloud
-- 🌱 I’m currently learning AWS
-- 💞️ I’m looking to collaborate on , i am not sure though.
-- 📫 How to reach me ..... 
+- 🌱 I’m currently learning AWS, Server Administration
+- 💞️ I’m looking to collaborate with Technical Support for Software and Cloud based solutions
+- 📫 You can reach me through my linkedin profile or email 
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: i snore when i sleep.
 
