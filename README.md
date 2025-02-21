@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @balaswork
-- 👀 I’m interested in learning about Cloud
+- 👀 I’m interested in learning about Tech Support , Cloud computing
 - 🌱 I’m currently learning AWS, Server Administration
 - 💞️ I’m looking to collaborate with Technical Support for Software and Cloud based solutions
 - 📫 You can reach me through my linkedin profile or email 
